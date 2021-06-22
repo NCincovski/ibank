@@ -7,3 +7,5 @@
 - ~~Document API (swagger)~~
 - Introduce Flyway
 - General code optimizations
+- JWT
+- Roles
